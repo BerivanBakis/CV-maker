@@ -23,7 +23,6 @@ Bu uygulamanın ana hedefi, kullanıcıların basit ve hızlı bir şekilde prof
 
 ## Kurulum
 Bu projeyi bilgisayarınıza klonladıktan sonra "npm run dev" komutu ile çalıştırabilirsiniz. 
-Oluşturduğum örnek CV [BerivanBakışCVMaker.pdf](https://github.com/user-attachments/files/18278433/BerivanBakisCVMaker.pdf)
 : 
 
 
