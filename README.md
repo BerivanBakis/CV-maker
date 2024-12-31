@@ -22,7 +22,9 @@ Bu proje, kullanıcıların profesyonel bir özgeçmiş (CV) oluşturmasına yar
 Bu uygulamanın ana hedefi, kullanıcıların basit ve hızlı bir şekilde profesyonel bir CV hazırlamalarını sağlamaktır. CV hazırlamak için kullanıcıların sadece gerekli bilgileri girmeleri yeterlidir, uygulama geri kalanını otomatik olarak düzenler ve şık bir formatta sunar. Kullanıcılar, oluşturdukları CV’yi PDF olarak indirebilir ve kariyer fırsatları için başvurularında kullanabilirler.
 
 ## Kurulum
-Bu projeyi bilgisayarınıza klonladıktan sonra "npm run dev" komutu ile çalıştırabilirsiniz.
+Bu projeyi bilgisayarınıza klonladıktan sonra "npm run dev" komutu ile çalıştırabilirsiniz. 
+Oluşturduğum örnek CV [BerivanBakışCVMaker.pdf](https://github.com/user-attachments/files/18278433/BerivanBakisCVMaker.pdf)
+: 
 
 
 >>>>>>> 
